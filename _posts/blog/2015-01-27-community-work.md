@@ -1,3 +1,10 @@
+---
+layout: post
+title: 社区工作复习资料
+description: 社区工作考试整理的复习资料
+category: blog
+---
+
 ## Community-Work
 
 ### 社区工作复习资料
